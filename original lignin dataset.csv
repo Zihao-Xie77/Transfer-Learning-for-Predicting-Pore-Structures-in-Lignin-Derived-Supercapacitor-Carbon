@@ -20,7 +20,7 @@ C,H,O,N,S,VM,Ash,FC,Agent_sample,Heating_rate,Activation_temp,Activation_time,SB
 61.65,5.59,31.3,0.0,1.46,28.14,1.88,66.52,2.0,5.0,800,2.0,896.36,0.3636,False,False,False,False,False,True
 62.55,5.28,29.41,0.45,0.0,58.6,2.31,35.28,1.0,5.0,700,1.0,916.0,0.364,False,False,True,False,False,False
 60.67,3.3,32.98,0.6,0.0,49.83,2.45,45.0,1.0,5.0,600,1.0,770.0,0.366,False,False,True,False,False,False
-64.4,5.0,29.4,0.0,1.2,59.74,0.1,40.16,0.4,10.0,500,1.0,,0.36800000000000005,False,False,False,False,False,True
+64.4,5.0,29.4,0.0,1.2,59.74,0.1,40.16,0.4,10.0,500,1.0,,0.37,False,False,False,False,False,True
 59.8,5.3,34.8,0.1,0.0,74.46,3.71,21.65,1.0,10.0,800,1.0,804.6,0.37,False,False,False,True,False,False
 62.55,5.28,29.41,0.45,0.0,58.6,2.31,35.28,1.0,5.0,600,1.0,878.0,0.372,False,False,True,False,False,False
 63.7,4.8,26.3,0.4,0.0,51.19,0.04,46.49,0.84,,800,2.0,883.0,0.38,False,False,False,False,True,False
@@ -36,7 +36,7 @@ C,H,O,N,S,VM,Ash,FC,Agent_sample,Heating_rate,Activation_temp,Activation_time,SB
 64.4,5.0,29.4,0.0,1.2,59.74,0.1,40.16,0.7,10.0,400,1.0,,0.494,False,False,False,False,False,True
 62.55,5.28,29.41,0.45,0.0,58.6,2.31,35.28,2.0,5.0,600,1.0,1180.0,0.494,False,False,True,False,False,False
 60.12,5.5,26.92,0.83,0.06,62.94,0.78,30.05,0.4,5.0,550,2.0,988.36,0.502,True,False,False,False,False,False
-56.2,6.0,34.2,3.5999999999999943,0.0,,,,1.0,10.0,700,2.0,1236.0,0.53,False,False,True,False,False,False
+56.2,6.0,34.2,3.60,0.0,,,,1.0,10.0,700,2.0,1236.0,0.53,False,False,True,False,False,False
 64.4,5.0,29.4,0.0,1.2,59.74,0.1,40.16,0.7,10.0,450,1.0,,0.534,False,False,False,False,False,True
 59.8,5.3,34.8,0.1,0.0,74.46,3.71,21.65,1.0,10.0,700,1.0,1289.86,0.55,False,False,True,False,False,False
 62.55,5.28,29.41,0.45,0.0,58.6,2.31,35.28,1.0,5.0,800,1.0,1255.0,0.554,False,False,True,False,False,False
@@ -69,7 +69,7 @@ C,H,O,N,S,VM,Ash,FC,Agent_sample,Heating_rate,Activation_temp,Activation_time,SB
 63.21,5.6,27.78,0.19,3.22,,,,1.0,10.0,800,2.0,1560.0,0.8,False,False,True,False,False,False
 64.91,7.34,19.82,0.26,7.67,48.66,4.03,34.57,1.0,,700,1.0,1191.0,0.82,False,False,True,False,False,False
 61.95,5.04,31.95,1.06,0.0,61.99,2.26,35.81,5.0,10.0,750,2.0,1581.8,0.82,False,False,True,False,False,False
-56.2,6.0,34.2,3.5999999999999943,0.0,,,,1.0,10.0,800,2.0,1562.0,0.84,False,False,True,False,False,False
+56.2,6.0,34.2,3.60,0.0,,,,1.0,10.0,800,2.0,1562.0,0.84,False,False,True,False,False,False
 63.21,5.6,27.78,0.19,3.22,,,,1.0,10.0,800,2.0,1687.0,0.86,False,True,False,False,False,False
 74.56,0.0,25.09,0.0,0.22,,,,2.0,2.5,350,1.0,1526.0,0.86,True,False,False,False,False,False
 60.12,5.5,26.92,0.83,0.06,62.94,0.78,30.05,1.0,5.0,450,2.0,1084.76,0.862,True,False,False,False,False,False
@@ -84,15 +84,15 @@ C,H,O,N,S,VM,Ash,FC,Agent_sample,Heating_rate,Activation_temp,Activation_time,SB
 64.4,5.0,29.4,0.0,1.2,59.74,0.1,40.16,1.0,10.0,500,1.0,1347.0,0.933,False,False,False,False,False,True
 63.7,4.8,26.3,0.4,0.0,51.19,0.04,46.49,2.18,,800,2.0,2153.0,0.94,False,False,True,False,False,False
 59.8,5.3,34.8,0.1,0.0,74.46,3.71,21.65,1.0,10.0,800,1.0,1969.12,0.95,False,True,False,False,False,False
-64.4,5.0,29.4,0.0,1.2,59.74,0.1,40.16,1.0,10.0,450,1.0,1320.0,0.9610000000000001,False,False,False,False,False,True
-56.2,6.0,34.2,3.5999999999999943,0.0,,,,1.0,10.0,700,2.0,1574.0,0.97,False,True,False,False,False,False
+64.4,5.0,29.4,0.0,1.2,59.74,0.1,40.16,1.0,10.0,450,1.0,1320.0,0.96,False,False,False,False,False,True
+56.2,6.0,34.2,3.60,0.0,,,,1.0,10.0,700,2.0,1574.0,0.97,False,True,False,False,False,False
 60.12,5.5,26.92,0.83,0.06,62.94,0.78,30.05,1.0,5.0,550,2.0,1215.82,0.975,True,False,False,False,False,False
 44.9,4.5,29.9,0.0,12.0,,,,1.0,5.0,850,1.0,1759.0,0.9873,False,False,True,False,False,False
 61.6,6.0,31.1,1.1,0.2,,,,3.0,10.0,500,2.0,1142.0,0.99,False,False,False,False,False,True
 61.95,5.04,31.95,1.06,0.0,61.99,2.26,35.81,3.0,10.0,750,2.0,2043.4,0.99,False,False,True,False,False,False
 64.4,5.0,29.4,0.0,1.2,59.74,0.1,40.16,1.5,10.0,450,1.0,,1.02,False,False,False,False,False,True
 64.4,5.0,29.4,0.0,1.2,59.74,0.1,40.16,2.3,10.0,400,1.0,,1.045,False,False,False,False,False,True
-56.2,6.0,34.2,3.5999999999999943,0.0,,,,1.0,10.0,800,2.0,1803.0,1.06,False,True,False,False,False,False
+56.2,6.0,34.2,3.60,0.0,,,,1.0,10.0,800,2.0,1803.0,1.06,False,True,False,False,False,False
 64.4,5.0,29.4,0.0,1.2,59.74,0.1,40.16,1.5,10.0,500,1.0,,1.093,False,False,False,False,False,True
 74.56,0.0,25.09,0.0,0.22,,,,2.0,2.5,400,2.0,1956.0,1.14,True,False,False,False,False,False
 60.12,5.5,26.92,0.83,0.06,62.94,0.78,30.05,1.2,5.0,550,2.0,1086.51,1.2,True,False,False,False,False,False
@@ -108,6 +108,6 @@ C,H,O,N,S,VM,Ash,FC,Agent_sample,Heating_rate,Activation_temp,Activation_time,SB
 74.56,0.0,25.09,0.0,0.22,,,,3.0,2.5,500,2.0,1790.0,1.46,True,False,False,False,False,False
 64.4,5.0,29.4,0.0,1.2,59.74,0.1,40.16,2.3,10.0,450,1.0,,1.462,False,False,False,False,False,True
 44.9,4.5,29.9,0.0,12.0,,,,3.0,5.0,850,1.0,2235.0,1.512,False,False,True,False,False,False
-56.2,6.0,34.2,3.5999999999999943,0.0,,,,1.0,10.0,900,2.0,2026.0,1.59,False,False,True,False,False,False
+56.2,6.0,34.2,3.60,0.0,,,,1.0,10.0,900,2.0,2026.0,1.59,False,False,True,False,False,False
 47.5,4.9,33.3,0.0,0.1,48.44,15.62,26.11,1.0,,800,2.0,1825.0,1.72,False,False,True,False,False,False
 64.4,5.0,29.4,0.0,1.2,59.74,0.1,40.16,2.3,10.0,500,1.0,,1.768,False,False,False,False,False,True
