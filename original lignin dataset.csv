@@ -53,7 +53,7 @@ C,H,O,N,S,VM,Ash,FC,Agent_sample,Heating_rate,Activation_temp,Activation_time,SB
 74.56,0.0,25.09,0.0,0.22,,,,1.0,2.5,500,1.0,1321.0,0.67,True,False,False,False,False,False
 60.12,5.5,26.92,0.83,0.06,62.94,0.78,30.05,1.0,5.0,550,3.0,1061.32,0.683,True,False,False,False,False,False
 61.95,5.04,31.95,1.06,0.0,61.99,2.26,35.81,3.0,10.0,850,2.0,1390.2,0.7,False,False,True,False,False,False
-64.4,5.0,29.4,0.0,1.2,59.74,0.1,40.16,1.0,10.0,600,1.0,1153.0,0.7010000000000001,False,False,False,False,False,True
+64.4,5.0,29.4,0.0,1.2,59.74,0.1,40.16,1.0,10.0,600,1.0,1153.0,0.701,False,False,False,False,False,True
 60.12,5.5,26.92,0.83,0.06,62.94,0.78,30.05,1.0,5.0,650,2.0,1013.87,0.707,True,False,False,False,False,False
 64.4,5.0,29.4,0.0,1.2,59.74,0.1,40.16,1.0,10.0,400,1.0,1297.0,0.72,False,False,False,False,False,True
 59.8,5.3,34.8,0.1,0.0,74.46,3.71,21.65,1.0,10.0,900,1.0,892.51,0.72,False,False,False,False,True,False
