@@ -1,4 +1,4 @@
-# Transfer-Learning-for-Predicting-Pore-Structures-in-Lignin-Derived-Supercapacitor-Carbon
+# Transfer-Learning-Guided-Prediction-of-Pore-Properties-in-Lignin-Derived-Supercapacitor-Carbon
 Code and data for'Transfer-Learning-for-Predicting-Pore-Structures-in-Lignin-Derived-Supercapacitor-Carbon'
 
 Critical dependence: numpy == 1.26.4 pandas == 2.2.2 scikit-learn == 1.5.1 tensorflow == 2.16.2 xgboost ==2.1.1
